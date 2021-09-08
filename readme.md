@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/TorToolkit-Telegram/tree/heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/emapps/TorToolkit/tree/heroku)
 # Rclone server
 Added rclone serve facilities. Server running on your heroku app url.
 If you don't interested, then just comment [this line](https://github.com/devillD/TorToolkit-Telegram/blob/f086ddb74319704fb0c2525927f798bae18e091d/start.sh#L1)
